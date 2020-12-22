@@ -39,3 +39,6 @@ npm run start-ts
    Отдает JSON вида `{'id': 2, 'name': 'что-то', 'description': 'что-то', image: '/path/to/image.svg', 'links': ['массив', 'строк']}`, где ключи и есть id.
 >
 > Сам список этих айдишников с описаниями, откуда будут отдаваться данные, сделать пока без базы, а просто в JSON файлах для теста.
+
+## Contributors not specified in commit history:
+Denis Avakov
